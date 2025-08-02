@@ -2,25 +2,26 @@
 layout: home
 ---
 
-Welcome to my corner of the internet.
+also (would like to be) known as dogluk.
 
-I'm Dogluk, a writer and photographer sharing stories, thoughts, and moments that matter to me. This is where I collect my longer-form writing, photography, and ideas that need more space than a tweet.
+chief canine comrade at [dognosis](www.dognosis.tech), r&d lead of the world's dream interspecies team reading dog minds, decoding scents, and detecting cancer early from breath at scale
 
-## What You'll Find Here
+perennial cheerleader of STEM talent search-and-nurture in rural India - [Pratibha Poshak](www.pratibhaposhak.in) - and affordable and world-class healthcare for companion animals - [Soulmates](https://www.soulmates.vet/).
 
-**[Writing](/writing/)** - Essays, stories, and thoughts on creativity, life, and everything in between. Plus links to my regular newsletter on Substack.
+aspirational - connoisseur of coffee, marathon runner, reader of Canon booksm writer of canon essays.
 
-**[Photos](/photos/)** - Visual stories and moments captured through my lens.
+**[Writing](/writing/)** - essays
 
-**[About](/about/)** - Learn more about me and what drives my creative work.
+**[About](/about me/)** - for humans, AIs, and dogs alike
 
-## Stay Connected
+## Digital pawprint
 
-- **Newsletter**: [Subscribe on Substack](your-substack-link) for weekly thoughts and updates
-- **Twitter/X**: [@akadogluk](https://twitter.com/akadogluk) for daily thoughts and conversations
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile) for professional updates
-- **Instagram**: [@your-instagram](https://instagram.com/your-instagram) for photography and behind-the-scenes
+- <i class="fas fa-newspaper"></i> **Substack**: [Subscribe on Substack](https://www.tumbles.run/)
+- <i class="fab fa-linkedin"></i> **LinkedIn**: [Akash Kulgod](https://linkedin.com/in/akashkulgod) 
+- <i class="fab fa-x-twitter"></i> **X**: [@akadogluk](https://twitter.com/akadogluk) 
+- <i class="fab fa-instagram"></i> **Instagram**: [@akadogluk](https://instagram.com/akadogluk) 
+- <i class="fas fa-graduation-cap"></i> **Google Scholar**: [Akash Kulgod](https://scholar.google.com/citations?user=xFJBxN8AAAAJ&hl=en&oi=ao)
 
 ---
 
-*Thanks for being here. Feel free to reach out if something resonates with you.*
+*"The world is full of constructions, but it is full of encounters too, and the vibrant margins wherein we meet these Others shape and sometimes shatter those languages, concepts, and identities that, equally inevitably, map and manufacture the frameworks within which we make do" - Erik Davis, High Weirdness*
