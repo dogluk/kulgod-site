@@ -20,6 +20,7 @@
 
 title: Akash Kulgod
 email: kulgod@pm.me
+work_email: akash@dognosis.tech
 description: >- # this means to ignore newlines until "baseurl:"
   on a pursuit to possess a better nose
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,7 +33,6 @@ social:
   twitter: akadogluk
   linkedin: akashkulgod
   instagram: akadogluk
-  rss: rss
   
 # Custom social links (for Substack and Google Scholar)
 substack_url: https://www.tumbles.run/
