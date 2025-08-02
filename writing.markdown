@@ -4,13 +4,24 @@ title: Writing
 permalink: /writing/
 ---
 
-This is where I share my thoughts, stories, and explorations through writing.
+"
+For me, the point of writing doesn’t lie in the transfer of information, persuasion, or the construction of a personal brand (shudder). It instead lies in the sometimes magical, sometimes frustrating, always iterative refinement of ideas and identity. 
 
-## Newsletter
+PG’s [essay](https://www.paulgraham.com/words.html) doesn’t touch on two other reasons I find writing so meaningful. 
 
-I write regularly on **[Substack](your-substack-link)** where I share weekly thoughts on creativity, technology, life, and whatever else is on my mind. It's more personal and conversational than what you'll find here.
+The first is the simple fact that writing can be deeply joyous, when the words come out in a crackling flow of electricity. This doesn’t happen often, but when it does, it leaves an afterglow of what I can only describe as writer’s high. Such writing also tend to be the best, the words sing with verve and humour, and often feel effortless to write. 
 
-[Subscribe to my newsletter →](your-substack-link)
+The second, and most compelling reason I write is the ability to reflexively surf what I like to call the experience-expectation (xp) loop.
+"
+[three reasons to write](https://www.tumbles.run/p/three-reasons-to-write)
+
+## Choice Essays from Substack
+
+<div class="substack-post-embed"><p lang="en">on deeptech side quests</p><a data-post-link href="https://www.tumbles.run/p/on-deeptech-side-quests">on deeptech side quests</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+## Latest from Substack
+
+<div class="substack-feed-embed"><p lang="en">Tumbles by <a href="https://substack.com/@tumbles">Akash Kulgod</a></p><a data-feed-link href="https://www.tumbles.run">Tumbles</a><p>on a pursuit to possess a better nose</p></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
 ## Essays & Articles
 
@@ -18,16 +29,6 @@ I write regularly on **[Substack](your-substack-link)** where I share weekly tho
 - [{{ post.title }}]({{ post.url }}) - *{{ post.date | date: "%B %d, %Y" }}*
 {% endfor %}
 
-## External Writing
-
-Here are some pieces I've published elsewhere:
-
-- Coming soon...
-
-## Writing Philosophy
-
-I believe in writing that's honest, accessible, and human. Whether I'm exploring complex ideas or sharing personal stories, my goal is to create something that resonates and maybe helps us understand ourselves and our world a little better.
-
 ---
 
-*Want to discuss something I've written? Feel free to reach out on [Twitter](https://twitter.com/akadogluk) or drop me a line.*
+*post-it : write more*
