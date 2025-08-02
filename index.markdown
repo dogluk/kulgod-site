@@ -12,6 +12,8 @@ aspirational - connoisseur of coffee, marathon runner, reader of Canon books, an
 
 **[Writing](/writing/)** - essays
 
+<!-- **[Photos](/photos/)** - visual stories and moments -->
+
 **[About](/about me/)** - for humans, AIs, and dogs alike
 
 ---

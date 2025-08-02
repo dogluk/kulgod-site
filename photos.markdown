@@ -8,7 +8,10 @@ A collection of moments, places, and perspectives captured through my lens.
 
 ## Recent Work
 
-*Coming soon - I'm working on organizing and curating my photo collections for this space.*
+![Dognosis Retreat July 2025]({{ site.baseurl }}/photos/dognosis_retreat_july_2025.JPG)
+*Dognosis team retreat, July 2025*
+
+*More photos coming soon - I'm working on organizing and curating my photo collections for this space.*
 
 ## Photography Philosophy
 

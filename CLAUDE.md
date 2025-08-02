@@ -33,8 +33,11 @@ bundle exec jekyll clean
 - `_config.yml` - Main site configuration
 - `_posts/` - Blog posts (markdown files)
 - `_site/` - Generated static site (auto-generated, do not edit)
+- `photos/` - Photo assets for the photography section
 - `about.markdown` - About page
 - `index.markdown` - Homepage
+- `photos.markdown` - Photography page
+- `writing.markdown` - Writing page with Substack integration
 - `Gemfile` - Ruby gem dependencies
 
 ## Key Configuration
