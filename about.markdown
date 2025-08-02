@@ -4,29 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Dogluk.
+Official-y Bio
 
-I'm a writer, photographer, and creative based in [Your Location]. This is my space on the internet where I share my thoughts through writing, capture moments through photography, and connect with others who appreciate the art of storytelling.
-
-## What I Do
-
-**Writing** - I explore ideas through words, whether it's personal essays, creative pieces, or thoughts on life, technology, and culture. You can find my regular writing on [Substack](your-substack-link) and here on this site.
-
-**Photography** - I believe in the power of visual storytelling. My photos capture everyday moments, travels, and the beauty I find in the ordinary.
-
-**Creating** - Always working on something new, whether it's a writing project, a photo series, or experimenting with different forms of creative expression.
-
-## Connect With Me
-
-I'd love to connect and hear your thoughts:
-
-- **Twitter/X**: [@akadogluk](https://twitter.com/akadogluk)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Instagram**: [@your-instagram](https://instagram.com/your-instagram)
-- **Substack**: [Your Newsletter](your-substack-link)
-
-## This Site
-
-This website is built with Jekyll and hosted on GitHub Pages. It's my digital home where I share longer-form writing, photography, and thoughts that need more space than social media allows.
-
-Thanks for stopping by. Feel free to reach out if something resonates with you.
+Akash Kulgod is a cognitive scientist and the co-founder and CEO of Dognosis. He leads R&D efforts to develop wearable brain-computer interfaces and neurobehavioral machine learning models for dogs, with the primary goal of creating a foundational olfactory model capable of disease screening at scale. He grew up in a family of 11 doctors in Belgaum, India, before studying Cognitive Science with Highest Honors at UC Berkeley. His thesis on a novel 4E cognitive model of canine olfaction won the Robert J. Glushko Prize for Distinguished Undergraduate Research, and he was the Berkeley Cognitive Science 2022 commencement speaker.  He has been a visiting researcher at Tech4Animals, Israel; Family Dog Project, Budapest; and Medical Detection Dogs, UK and is the first author of multiple publications, posters, and patents on canine cognitive neuroscience, early cancer detection, and bio-inspired olfaction. He is a 2x Emergent Ventures India grantee and a 2025 Foresight Institute Neurotechnology Fellow.
