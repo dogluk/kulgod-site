@@ -4,17 +4,13 @@ layout: page
 
 also (would like to be) known as dogluk.
 
-chief canine comrade at [dognosis](www.dognosis.tech), r&d lead of the world's dream interspecies team reading dog minds, decoding scents, and detecting cancer early from breath at scale.
+chief canine comrade at [dognosis](www.dognosis.tech), r&d lead of the world's dream interspecies team, reading dog minds, decoding scents, and detecting cancer early from breath at scale.
 
 perennial cheerleader of STEM talent search-and-nurture in rural India - [Pratibha Poshak](www.pratibhaposhak.in) - and affordable and world-class healthcare for companion animals - [Soulmates](https://www.soulmates.vet/).
 
-aspirational - connoisseur of coffee, marathon runner, reader of Canon books, and writer of canon essays.
+aspirational - connoisseur of coffee, reader of Canon books, writer of canon essays, and every-day runner with dogs.
 
-**[Writing](/writing/)** - essays
 
-<!-- **[Photos](/photos/)** - visual stories and moments -->
-
-**[About](/about me/)** - for humans, AIs, and dogs alike
 
 ---
 

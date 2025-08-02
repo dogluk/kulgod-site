@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lore Photos
+title: Lore
 permalink: /photos/
 ---
 
