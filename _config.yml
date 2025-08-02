@@ -30,8 +30,13 @@ github_username:  dogluk
 # Social media profiles
 social:
   twitter: akadogluk
-  linkedin: akashkulgod # Add your LinkedIn username here
-  instagram: akadogluk # Add your Instagram username here
+  linkedin: akashkulgod
+  instagram: akadogluk
+  rss: rss
+  
+# Custom social links (for Substack and Google Scholar)
+substack_url: https://www.tumbles.run/
+google_scholar_url: https://scholar.google.com/citations?user=xFJBxN8AAAAJ&hl=en&oi=ao
 
 # Build settings
 theme: minima

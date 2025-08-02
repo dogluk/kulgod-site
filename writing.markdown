@@ -23,7 +23,7 @@ The second, and most compelling reason I write is the ability to reflexively sur
 
 <div class="substack-feed-embed"><p lang="en">Tumbles by <a href="https://substack.com/@tumbles">Akash Kulgod</a></p><a data-feed-link href="https://www.tumbles.run">Tumbles</a><p>on a pursuit to possess a better nose</p></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
-## Essays & Articles
+## Substack essays can also be found in chronological order on here -
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }}) - *{{ post.date | date: "%B %d, %Y" }}*
