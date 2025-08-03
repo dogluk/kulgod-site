@@ -2,7 +2,7 @@
 layout: page
 ---
 
-also (would like to be) known as dogluk.
+yes, it's my last name backwards, reverse nominative determinism at its finest.
 
 chief canine comrade at [dognosis](www.dognosis.tech), r&d lead of the world's dream interspecies team, reading dog minds, decoding scents, and detecting cancer early from breath at scale.
 
