@@ -22,6 +22,12 @@ The second, and most compelling reason I write is the ability to reflexively sur
 
 <div class="substack-post-embed"><p lang="en">on deeptech side quests</p><a data-post-link href="https://www.tumbles.run/p/on-deeptech-side-quests">on deeptech side quests</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
+<div class="substack-post-embed"><p lang="en">brain reading and writing</p><a data-post-link href="https://www.tumbles.run/p/brain-reading-and-writing">brain reading and writing</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+<div class="substack-post-embed"><p lang="en">turning 25</p><a data-post-link href="https://www.tumbles.run/p/turning-25">turning 25</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+<div class="substack-post-embed"><p lang="en">on being an america-returned indian</p><a data-post-link href="https://www.tumbles.run/p/on-being-an-america-returned-indian">on being an america-returned indian</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
 ## All writing -
 
 {% for post in site.posts %}
