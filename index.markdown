@@ -4,13 +4,13 @@ layout: page
 
 yes, it's my last name backwards, reverse nominative determinism at its finest.
 
-currently - 
+currently -
 
 chief canine comrade at [dognosis](www.dognosis.tech), r&d lead of the world's dream interspecies team, reading dog minds, decoding scents, and detecting cancer early from breath at scale.
 
-perennial cheerleader of STEM talent search-and-nurture in rural India - [Pratibha Poshak](www.pratibhaposhak.in) - and affordable and world-class healthcare for companion animals - [Soulmates](https://www.soulmates.vet/).
+perennial cheerleader of STEM talent search-and-nurture in rural India - [Pratibha Poshak](www.pratibhaposhak.in) - and affordable and human-class healthcare for companion animals - [Soulmates](https://www.soulmates.vet/).
 
-aspirational -
+aspirationally -
 
  connoisseur of coffee, reader of Canon books, writer of canon essays, and every-day runner with dogs.
 
