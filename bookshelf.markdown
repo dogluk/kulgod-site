@@ -5,6 +5,9 @@ permalink: /bookshelf/
 ---
 
 Books on my shelf -
+
+Updated - Aug 16, 2025
+
 [The Idea Factory:Bell Labs and the Great Age of American Innovation](https://en.wikipedia.org/wiki/The_Idea_Factory), Jon Gertner, 2012
 
 [Founders at Work, Stories of Startups' Early Days](https://en.wikipedia.org/wiki/Founders_at_Work), Jessica Livingston, 2007
@@ -13,5 +16,6 @@ Books on my shelf -
 
 [An Immense World, How Animal Senses Reveal the Hidden Realms Around Us](https://en.wikipedia.org/wiki/An_Immense_World), Ed Yong, 2022
 
+---
 
-[Goodreads](https://www.goodreads.com/user/show/13944930-akash-kulgod )
+My [Goodreads](https://www.goodreads.com/user/show/13944930-akash-kulgod )
