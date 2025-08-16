@@ -11,7 +11,7 @@ permalink: /photos/
 *Dognosis team retreat, July 2025*
 
 ![Dognosis Kuku Tihar 2024]({{ site.baseurl }}/photos/kukutihar2024.jpg)
-*Dognosis team retreat, July 2025*
+*Kuku Tihar, July 2025*
 
 ![Mush]({{ site.baseurl }}/photos/mush.jpeg)
 *Mush, 2022*
@@ -38,7 +38,7 @@ permalink: /photos/
 ![Moss Rock]({{ site.baseurl }}/photos/moss_rock.jpg)
 *A moss-laden rock off the coast of California, 2019*
 
-![Puddles on Hill]({{ site.baseurl }}/photos/puddles_on_hills.jpg
+![Puddles on Hill]({{ site.baseurl }}/photos/puddles_on_hills.jpg)
 *A little lake on a hill in California, 2019*
 ---
 
