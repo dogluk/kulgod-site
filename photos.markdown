@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lore
+title: Photos
 permalink: /photos/
 ---
 
@@ -10,35 +10,35 @@ permalink: /photos/
 ![Dognosis Retreat July 2025]({{ site.baseurl }}/photos/dognosis_retreat_july_2025.JPG)
 *Dognosis team retreat, July 2025*
 
-![Dognosis Kuku Tihar 2024]({{ site.baseurl }}/photos/kukutihar2024.JPG)
+![Dognosis Kuku Tihar 2024]({{ site.baseurl }}/photos/kukutihar2024.jpg)
 *Dognosis team retreat, July 2025*
 
 ![Mush]({{ site.baseurl }}/photos/mush.jpeg)
 *Mush, 2022*
 
-![Shadow 2021]({{ site.baseurl }}/photos/shadow.JPG)
+![Shadow 2021]({{ site.baseurl }}/photos/shadow.jpg)
 *Shadow as a pup*
 
-![Junior 2021]({{ site.baseurl }}/photos/juno.JPG)
+![Junior 2021]({{ site.baseurl }}/photos/juno.jpg)
 *Junior as a pup*
 
 ![Argan Talab 2020]({{ site.baseurl }}/photos/argan_talab.jpeg)
 *Argan Talab, forbidden lake, Belgaum*
 
-![Soaring above the Gangotri]({{ site.baseurl }}/photos/soaring_above_the_gangotri.jpeg)
+![Soaring above the Gangotri]({{ site.baseurl }}/photos/soaring_above_the_gangotri.jpg)
 *Dayara Bugyal, 2020*
 
 
 ![Cal on Fire]({{ site.baseurl }}/photos/cal_on_fire.JPG)
 *The pandemic day the sky went orange in Berkeley, 2020*
 
-![Man and Squirrel]({{ site.baseurl }}/photos/man_and_squirrel.JPG)
+![Man and Squirrel]({{ site.baseurl }}/photos/man_and_squirrel.jpg)
 *Inter-species meditations in the Eucalyptus Grove, 2020*
 
-![Moss Rock]({{ site.baseurl }}/photos/moss_rock.JPG)
+![Moss Rock]({{ site.baseurl }}/photos/moss_rock.jpg)
 *A moss-laden rock off the coast of California, 2019*
 
-![Puddles on Hill]({{ site.baseurl }}/photos/puddles_on_hills.JPG)
+![Puddles on Hill]({{ site.baseurl }}/photos/puddles_on_hills.jpg
 *A little lake on a hill in California, 2019*
 ---
 
