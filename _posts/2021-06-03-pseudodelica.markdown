@@ -4,6 +4,7 @@ title: "Pseudodelica"
 date: 2021-06-03 12:00:00 +0530
 categories: psychedelic
 external_url: https://www.tumbles.run/p/pseudodelica
+permalink: /pseudodelica/
 ---
 
 

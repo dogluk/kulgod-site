@@ -11,7 +11,7 @@ the most effective way I stop myself from snoozing, a real problem given my subc
 
 the best way I’ve found to be able to remember to deal with the barrage of founder tasks is to let them go – safely into the embrace of a to-do list. off-loading from my fickle carbon RAM to trusty silicon not only grants reliability, it frees precious neural estate for things that matter more and i actually relish - creative riffing, strategic problem-solving and tactical riposte. post-its too, do not underestimate the power of a stack of post-its and a pen near the shower.
 
-i turned off notifications for every app on my phone except mygate. no social apps feature on my homescreen, i must type them out to enter their supersensoriums.
+i turned off notifications for every app on my phone except mygate. [no social apps](https://www.tumbles.run/p/deleting-the-apps-for-the-nth-time) feature on my homescreen, i must type them out to enter their supersensoriums.
 
 i just bought a 2l water bottle to replace my 750ml one. i have multiple laptop chargers, one at every desk i work at, but none at the bedside table. my workout clothes always hang on a hook on my bedroom door. my running shoes have socks already in them. our kitchen is semi-optimized for protein smoothies. i keep a meditation cushion next to my bed that i can’t help but look at it everyday and scatter books around like grain, near the toilet, bedside, coffee table, shelves.
 
@@ -23,3 +23,7 @@ you are the sum of your affordances
 
 ![Atractor and limit cycle](/posts_assets/freeman_attractors.png)
 *From Walter Freeman's How Brains Make Up Their Minds*
+
+
+see also
+[A no-nonsense time-tested guide to having solid days](www.dogl.uk/solid-days/)

@@ -4,6 +4,7 @@ title: "Cosmic Birthday Gift"
 date: 2021-10-10 12:00:00 +0530
 categories: psychedelic
 external_url: https://www.tumbles.run/p/cosmic-birthday-gift
+permalink: /cosmic-birthday-gift/
 ---
 
 

@@ -4,6 +4,7 @@ title: "Canine Medical Intuitives"
 date: 2022-08-30 12:00:00 +0530
 categories: canon
 external_url: https://www.tumbles.run/p/canine-medical-intuitives
+permalink: /canine-medical-intuitives/
 ---
 
 Timeline

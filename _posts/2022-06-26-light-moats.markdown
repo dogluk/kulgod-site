@@ -4,6 +4,7 @@ title: "light-moats"
 date: 2022-06-26 12:00:00 +0530
 categories: canon
 external_url: https://www.tumbles.run/p/tumble-0-light-moats
+permalink: /light-moats/
 ---
 charlie 777 is everything they say and more. it is a beautiful rich gut-wrenching paean to the human canine bond. move aside hachiko and marley and me, we have a new dog on the block.
 

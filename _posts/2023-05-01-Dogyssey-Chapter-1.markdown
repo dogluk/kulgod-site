@@ -4,6 +4,7 @@ title: "Dogyssey: Chapter 1"
 date: 2023-05-01 12:00:00 +0530
 categories: canon
 external_url: https://www.tumbles.run/p/dogyssey-chapter-1
+permalink: /dogyssey-1/
 ---
 
 

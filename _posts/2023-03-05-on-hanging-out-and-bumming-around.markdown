@@ -4,6 +4,7 @@ title: "on hanging out and bumming around"
 date: 2023-03-05 12:00:00 +0530
 categories: crackle
 external_url: https://www.tumbles.run/p/on-hanging-out-and-bumming-around
+permalink: /bumming/
 ---
 
 

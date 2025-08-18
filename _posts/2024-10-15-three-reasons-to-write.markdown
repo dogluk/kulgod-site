@@ -4,6 +4,7 @@ title: "Three Reasons to Write"
 date: 2024-10-15 12:00:00 +0530
 categories: writing creativity
 external_url: https://www.tumbles.run/p/three-reasons-to-write
+permalink: /3-reasons-to-write/
 ---
 
 I just reread Paul Graham’s 2022 [essay](http://www.paulgraham.com/words.html) on writing (Putting Ideas Into Words). Here’s a couple of the money lines -
@@ -14,9 +15,9 @@ I just reread Paul Graham’s 2022 [essay](http://www.paulgraham.com/words.html)
 
 This is one of my favourite PG essays.  It articulates what I’ve long felt about writing - why I find it so valuable and why I often find it so hard to do. It hits home harder in an age of AI promising/threatening to do all our writing (and therefore thinking).
 
-For me, the point of writing doesn’t lie in the transfer of information, persuasion, or the construction of a personal brand (shudder). It instead lies in the sometimes magical, sometimes frustrating, always iterative refinement of ideas and identity. 
+For me, the point of writing doesn’t lie in the transfer of information, persuasion, or the construction of a personal brand (shudder). It instead lies in the sometimes magical, sometimes frustrating, always iterative refinement of ideas and identity.
 
-PG’s essay doesn’t touch on two other reasons I find writing so meaningful. 
+PG’s essay doesn’t touch on two other reasons I find writing so meaningful.
 
 The first is the simple fact that writing can be deeply joyous, when the words come out in a [crackling flow of electricity](https://visakanv.substack.com/p/branching-paths). This doesn’t happen often, but when it does, it leaves an afterglow of what I can only describe as writer’s high. Such pieces also tend to be the best, they sing with verve and humour, and often feel effortless to write. /0/ felt like that.
 
