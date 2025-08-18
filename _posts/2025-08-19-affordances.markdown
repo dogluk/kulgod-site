@@ -21,5 +21,5 @@ the jury is out on how much the latter two have really helped, sitting and readi
 
 you are the sum of your affordances
 
-![Atractor and limit cycle](/photos/freeman_attractors.png)
+![Atractor and limit cycle](/posts_assets/freeman_attractors.png)
 *From Walter Freeman's How Brains Make Up Their Minds*
