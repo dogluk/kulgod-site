@@ -19,21 +19,21 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Akash Kulgod
-email: kulgod@pm.me
-work_email: akash@dognosis.tech
+email: kulgod at pm dot me
+work_email: akash at dognosis dot tech
 description: >- # this means to ignore newlines until "baseurl:"
   on a pursuit to possess a better nose
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: akadogluk
-github_username:  dogluk
+github_username: dogluk
 
 # Social media profiles
 social:
   twitter: akadogluk
   linkedin: akashkulgod
   instagram: akadogluk
-  
+
 # Custom social links (for Substack and Google Scholar)
 substack_url: https://www.tumbles.run/
 google_scholar_url: https://scholar.google.com/citations?user=xFJBxN8AAAAJ&hl=en&oi=ao
