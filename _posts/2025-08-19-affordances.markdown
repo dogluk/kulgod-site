@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "you are the sum of your affordances"
-date: 2025-02-23 12:00:00 +0530
+date: 2025-08-19 12:00:00 +0530
 categories: canon
 external_url: https://www.tumbles.run/p/turning-25
 permalink: /affordances/
