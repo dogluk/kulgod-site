@@ -20,6 +20,8 @@ The second, and most compelling reason I write is the ability to reflexively sur
 
 ## Choice Essays from Substack
 
+<div class="substack-post-embed"><p lang="en">Dogs as deep-est tech</p><a data-post-link href="https://dognosis.substack.com/p/dogs-as-deep-est-tech">Dogs as deep-est tech</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
 <div class="substack-post-embed"><p lang="en">on deeptech side quests</p><a data-post-link href="https://www.tumbles.run/p/on-deeptech-side-quests">on deeptech side quests</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
 <div class="substack-post-embed"><p lang="en">brain reading and writing</p><a data-post-link href="https://www.tumbles.run/p/brain-reading-and-writing">brain reading and writing</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
