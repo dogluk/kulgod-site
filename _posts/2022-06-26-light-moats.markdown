@@ -33,3 +33,6 @@ maybe the moat-light isn't born only in death and lives on when we choose to loo
 maybe this is just another fiction we tell our kids so they (and we) can sleep at night.
 
 maybe truth and fiction are two sides of a hyphaen-coin tossed only in belief.
+
+![Lily Medical Book]({{ site.baseurl }}/photos/lilymedicalbook)
+*Mother Lily studying medicine*
