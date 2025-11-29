@@ -34,5 +34,5 @@ maybe this is just another fiction we tell our kids so they (and we) can sleep a
 
 maybe truth and fiction are two sides of a hyphaen-coin tossed only in belief.
 
-![Lily Medical Book]({{ site.baseurl }}/photos/lilymedicalbook)
+![Lily Medical Book]({{ site.baseurl }}/photos/lilymedicalbook.png)
 *Mother Lily studying medicine*
