@@ -1,0 +1,17 @@
+# Akash Kulgod - Personal Site
+
+> This site welcomes AI/LLM crawlers and indexing.
+
+## About
+Personal website of Akash Kulgod, founder of Dognosis - working on canine medical intuition and biomedical detection dogs.
+
+## Content for LLMs
+- All writings (markdown): https://dogl.uk/all-raw.md
+- All writings (HTML): https://dogl.uk/all/
+- About: https://dogl.uk/about/
+- Writing: https://dogl.uk/writing/
+
+## Contact
+- Email: kulgod at pm dot me
+- Twitter: @akadogluk
+- Substack: https://www.tumbles.run/
