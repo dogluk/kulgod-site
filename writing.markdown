@@ -30,7 +30,7 @@ The second, and most compelling reason I write is the ability to reflexively sur
 
 <div class="substack-post-embed"><p lang="en">on being an america-returned indian</p><a data-post-link href="https://www.tumbles.run/p/on-being-an-america-returned-indian">on being an america-returned indian</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
-## All writing -
+## All writing - [view all in one page](/all/)
 
 Migration-in-progress
 
