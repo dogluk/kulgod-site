@@ -43,6 +43,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Header navigation - only these pages appear in nav
+header_pages:
+  - about.markdown
+  - writing.markdown
+  - bookshelf.markdown
+  - photos.markdown
+  - poetry.markdown
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
