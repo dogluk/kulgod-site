@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "The first 10 trillion dollar “company” will be an Indian Healthcare Alliance
-"
+title: 'The first 10 trillion dollar “company” will be an Indian Healthcare Alliance'
 date: 2025-11-07 20:32:00 +0530
 categories: canon
 permalink: /10t/

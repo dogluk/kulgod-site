@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What A Time to be Alive"
-date: 2022-05- 12:00:00 +0530
+date: 2022-05-21 12:00:00 +0530
 categories: psychedelic
 external_url: https://www.youtube.com/watch?v=7SOY08wb0pE
 permalink: /commencement/
