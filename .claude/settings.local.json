@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.tumbles.run)",
+      "WebFetch(domain:www.tumbles.run)",
+      "WebFetch(domain:www.tumbles.run)"
+    ],
+    "deny": []
+  }
+}

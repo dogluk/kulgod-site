@@ -51,3 +51,16 @@ bundle exec jekyll clean
 - Jekyll automatically regenerates the site when files change during `bundle exec jekyll serve`
 - The `_config.yml` file requires server restart when modified
 - Generated site files in `_site/` should not be manually edited as they are overwritten on each build
+
+## Journal Workflow
+
+When the user says "ship journal" followed by a date (e.g. "ship journal today", "ship journal 04022026", "ship journal yesterday"):
+
+1. Parse the date input (supports: "today", "yesterday", ddmmyyyy format like "04022026", or natural language like "4 feb 2026")
+2. Convert to YYYY-MM-DD display format
+3. Check if entry exists in `journal.markdown` - if not, add a new `## YYYY-MM-DD` section at the top (after TOC) and add date link to the jump-to TOC
+4. Ask the user what they want to write for that date
+5. Add their content under the date heading
+6. Run: `git add journal.markdown && git commit -m "ship journal" && git push origin`
+
+If user just says "ship journal" without a date, assume "today".
