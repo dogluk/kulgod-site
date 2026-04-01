@@ -1,0 +1,57 @@
+# how dogs scale
+## once you take out the human bottleneck with AI trainers
+date : jan 2026
+
+This essay outlines how the dog nose is inherently scalable, once humans are taken out of the loop. After some napkin dog math, we arrive at high accuracy full-body cancer screening that costs less than $1, is fully non-invasive, and requires minimal capex and logistics.
+
+The average dog can sniff 30 samples a minute, taking on average 0.5s to make an olfactory decision. They can sniff with focus for 1-2 minute bouts of 50-100 sniffs, and keep going for 5-10 rounds with 1 minute breaks. This allows a regular dog like Chloe, our adopted Lab-Indie mix, to sniff  500 samples in a 20 minute sprint. With 2-3 sprints, a single dog can make 1-1.5k olfactory decisions in less than an hour of sniff-time, allowing a pack of 10 dogs to run 12k inferences a day. If each sample requires 3 inferences for a decision, you can run throughput of 4k samples a day, or 100k samples a month, with 1-hour sniff-days and weekends off.
+
+Hence, 10 dogs can comfortably screen 1M samples a year.
+
+Take a reference. The Californian company BillionToOne had a $4B+ IPO in November 2025, having completed 1M cumulative prenatal UNITY tests in June 2025, in the 8 years since being part of YC 2017. Taking 8 years to get to unicorn status in the US public markets with a blockbuster 300M+ raise at a 4B+ valuation, during a government shutdown no less, is an extremely impressive feat, and BillionToOne is widely accepted in VC circles as a canonical success stories in diagnostics — the perpetual runt of the healthcare litter dominated by big brother Pharma — and a literal one out of billion success story in the diagnostic graveyard. A significant share of BT1 is expected to be its emerging suite of products in the cancer market, specifically their MRD (minimal residual disease) and MCED (multi-cancer early detection) lines.
+
+Take another reference. The American company GRAIL, estranged spin-off of genomic sequencing giant Illumina, performed 45k of their Galleri tests in Q3 2025. GRAIL relies on cell-free DNA to detect methylation patterns present in 50 cancers. At Stage-1, the performance of Galleri across cancers is 17%. That is, with the prevalence of those 50 cancers in America being around 1/100 above the age of 50, you would need to test around 600 people with the Galleri test to find a single case of Stage-1 cancer. At its current $950/test, and not counting the cost of follow-ups, this would end up leading GRAIL billing 570k USD (5.3Cr INR) for every Stage-1 cancer they found. GRAIL is valued at $6B as of Dec 2025.
+
+Assume those 10 dogs with some Bayesian fusion can achieve 90% sensitivity at Stage-1 for those same cancer types at an AUC of 0.960. This is not an unreasonable assumption, as multiple 40+ smaller (n<300) trials in Europe, the United States, and elsewhere, and recently larger (n>1000) trials in Israel and India have shown such sensitivities and AUCs, and the technology powering the latter studies (sensors, ML, decision algorithms) is still in its infancy.
+
+This would allow each one of the pack of 10 dogs to find a single case of Stage-1 cancer for every 110 samples sniffed, which would take around 4 minutes of dog time.
+
+In the world until Karl Barx, 4 minutes of dog time is a rounding error of dog food and caretaker time. The marginal unit cost of each cancer caught is therefore the cost of a hundred-odd surgical face masks + mylar bags + the logistics of getting 10g kits from various points of collection to a centralized point of testing. As logistics costs go down with drones, to 10paise/km or less, and given the absence of cold-chain or special storage requirements, you can feasibly perform every test for less than 1 dollar / 100 INR. Thus, to test 110 people to find the 1 case of cancer early, it would cost around ~$100 / 10k INR.
+
+With cancer incidence estimated in India to be 4M/40L yr, it would cost around $400M / 10k Cr) (excluding follow-ups) to detect almost all cases (3.5M) of cancer in India at Stage-1. Assuming an increase in successful treatment odds from 25% to 75% you end up saving 2M /20L lives every year for $400M/10K Cr INR.
+
+That is, you could feasibly save one life for $200 / 16k INR of public/private health spending.
+
+Suppose the dogs realize the power they held over us and decided to start charging us for their services. Even at a handsome $1M/yr salary for her annual 250 hours of sniff-time at $70/min or $4200/hr, this would lead only to an additional $250 per early case of cancer detected and have the cost per one life saved to remain under $500. And thankfully, the dogs have not yet unionized.
+
+
+
+Some dogs, like our 2yo male dutch shepherd can go for far longer, with a malinois-like drive to keep going for 40 minutes or higher, but needs to learn the patience and stamina that comes with age and experience. Some elite Oketz dogs have been known to go for hours in far more challenging environments and situations than a comfortable room with AC and plenty of treats.
+
+
+
+As informed readers will know, this is a load-bearing phase as the “open-ticket” of an unresolved false positive can be the primary drives of the cost of cancer screening
+
+
+
+Once again, we are intentionally not tracking the false positives and the cost there-in to avoiding derailing the crux of the argument. But dealing with false positives from MCEDs is one of the great hot questions in the field
+
+
+
+Yes, it would be amiss to not admit that this is a load-bearing phrase as follow-ups can be expensive, as well as psychologically taxing. A topic for another essay(s)
+
+
+
+ This is multi-faceted, with type of cancer, status-quo of current detection, age and demographics, treatment course, and time duration all being important inputs, among others
+
+
+
+This is a huge oversimplification of the many nuances buried within that will probably cause esteemed clinically trained readers to wince. We apologize in advance and ask for patience as we write the corpus of essays to address these concerns.
+
+
+
+Yes, lead-time bias. But also, as we approach longevity escape-velocity, with cryo, immuno, omic and embryonic advancements, our error bars must grow wider Much wider.
+
+
+
+We enjoy the Rick and Morty episode too.
