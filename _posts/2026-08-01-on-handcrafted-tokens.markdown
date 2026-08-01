@@ -6,6 +6,9 @@ categories: canon
 permalink: /handcrafted-tokens/
 ---
 
+![O.G Variar Bakery]({{ site.baseurl }}/photos/ogvariar_bakery.jpeg)
+*O.G Variar Bakery, Rajajinagar, 1955*
+
 My mother's father was the O.G who started O.G Variar Bakery, house-and-auto-hold name in Old Bangalore and beloved favourite of Rajajinagar-Malleshwaram natives. Orunkara Govinda started the bakery after years of pushing a cart around the streets of Guttahaali, and many nights of learning from the bakers around him making biscuits and bread by hand.
 
 There is something invaluably grounding in doing things by hand, perhaps more so now in the age of tokenized will. This is especially true when the doing is a craft, like writing or baking. A craft demands constant exercise, for there can always be more judgement and discernment applied. The discipline of exercising taste with real appetite leads to a refinement in character that is hard to achieve by any other means. You can just do things, yes, but doing them well takes practice.

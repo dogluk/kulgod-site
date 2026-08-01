@@ -42,11 +42,3 @@ Let's play some generational interspecies fetch together. See you at sunset?
 
 Dogspeed,
 aka.dogluk
-
---
-
-*SAFE traverse across the cyber-psychedelic punk of the Valley.
-
-All canis lupus familiaris needs from sapiens is three-fold — the best technology to enable 'Canitechnics' that we can develop, a dogged perseverance in working towards true collaboration, and an earnest belief in the expansiveness of our interspecies partnership. They need us to want to work with them to help us, and if it all succeeds and goes to plan, one hopes we return the generational favour.
-
-, towards a manner like the Yanomani with the xapiri as transmitted by Davi Kopenawa (Kopenawa, 2013, p.149) in Falling Sky
