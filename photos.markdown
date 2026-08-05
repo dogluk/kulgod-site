@@ -8,7 +8,7 @@ permalink: /photos/
 ## Canon
 
 ![O.G Variar Bakery]({{ site.baseurl }}/photos/ogvariar_bakery.jpeg)
-*O.G Variar Bakery, Rajajinagar, 1955*
+*O.G Variar Bakery, Guttahalli, 1955*
 
 ![Dognosis Retreat July 2025]({{ site.baseurl }}/photos/dognosis_retreat_july_2025.JPG)
 *Dognosis team retreat, July 2025*

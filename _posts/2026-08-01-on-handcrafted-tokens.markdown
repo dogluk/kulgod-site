@@ -7,7 +7,7 @@ permalink: /handcrafted-tokens/
 ---
 
 ![O.G Variar Bakery]({{ site.baseurl }}/photos/ogvariar_bakery.jpeg)
-*O.G Variar Bakery, Rajajinagar, 1955*
+*O.G Variar Bakery, Guttahalli, 1955*
 
 My mother's father was the O.G who started O.G Variar Bakery, house-and-auto-hold name in Old Bangalore and beloved favourite of Rajajinagar-Malleshwaram natives. Orunkara Govinda started the bakery after years of pushing a cart around the streets of Guttahaali, and many nights of learning from the bakers around him making biscuits and bread by hand.
 

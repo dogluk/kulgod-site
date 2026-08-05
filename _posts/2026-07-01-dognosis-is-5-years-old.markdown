@@ -8,7 +8,7 @@ permalink: /dognosis5/
 
 /on Mother Lily, the births, the deaths, the beginning/
 
-Friday was the fifth birthday of our family's dogs Lily and Daisy. Last Sunday, the 28th of June, it will be the fifth death anniversary of Mother Lily. Today, dognosis is 5 years old.
+Friday was the fifth birthday of our family's dogs Lily and Daisy. Last Sunday, the 27th of June, it will be the fifth death anniversary of Mother Lily. Today, dognosis is 5 years old.
 
 I have told the story of Dognosis hundreds, likely thousands of times, by now. I never grow tired of doing so, it is a story I cherish and one that I am ever grateful for calling my own. But I have shied away from telling the whole story. It felt too vulnerable to whip out in casual conversation and too precious to despoil on the algorithmic market. But to share is also to honor by remembrance. Half-a-decade is a long time, especially nowadays, and it feels vital to share the complete origin story.
 
